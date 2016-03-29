@@ -21,6 +21,7 @@
    ```
    gulp build
    ```
+   
    The above command will use tsconfig.json to compile all necessary files to **<project_root>/dist/** folder
 3. Launch the Node process to serve the app using the following command:
    ```
