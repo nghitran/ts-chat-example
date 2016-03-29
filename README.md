@@ -6,6 +6,7 @@
 * NPM
 * [Gulp.js](http://gulpjs.com/) (```npm install --global gulp```)
 * [typings](https://github.com/typings/typings) (```npm install --global typings```)
+* [TypeScript](http://www.typescriptlang.org/) (```npm install --global typescript```)
 
 ## How to run
 1. Run following commands:
